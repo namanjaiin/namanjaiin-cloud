@@ -1,6 +1,5 @@
 # Summary
-## Cloud & DevSecOps Engineer
-- Young & energetic engineer with 4+ years of experience designing, automating, and managing cloud infrastructure on
+- Cloud & DevSecOps Engineer with 4+ years of experience designing, automating, and managing cloud infrastructure on
 AWS Cloud. Skilled in CI/CD, infrastructure as code, cloud cost optimization, and cross-functional workflow automation. Proven track record optimizing deployment processes, reducing costs, and enhancing security and reliability
 in environments.
 - Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Jenkins, Docker, Kubernetes, Helm, GitOps, ArgoCD, MLOps, Terraform, Security, Snyk, SonarQube, Trivy, Prometheus, Grafana, New Relic 
@@ -8,7 +7,7 @@ in environments.
 
 # 🎓 Education:
 ## Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
-Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 CGPA: 8.29
 
 # 💻 Skills:
@@ -16,7 +15,7 @@ CGPA: 8.29
 
 # 👨🏻‍💻 Work Experience:
 
-## Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2024 - Present
+## Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤ2024 - Present
 - Designed AWS architecture for 4+ client projects, using AWS Organizational Units (OUs) to strengthen
 isolation, governance, and security best practices across multiple AWS accounts, including production, UAT,
 QA and Dev environments, resulting in a 30% reduction in security incidents.
@@ -43,7 +42,7 @@ and Elastic IP.
 - Contributed to architectural decisions, ensuring scalable and maintainable designs for future expansions of
 application services.
 
-## Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2022 - 2024
+## Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤ2022 - 2024
 - Experience in managing Linux-based cloud infrastructure.
 - Configured self-managed databases like MariaDB and PostgreSQL across all instances in multiple environments, ensuring high availability and performance based on client requirements.
 - Infrastructure setup for new 20+ microservices, encompassing AWS EKS and Jenkins Configurations.
@@ -61,7 +60,7 @@ consistent deployments across 2+ projects.
 and CloudTrail, resulting in a 70% reduction in security incidents and ensuring 100% compliance with
 organizational security standards.
 
-## Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
+## Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
 - Developed and maintained project documentation workflows that integrate JIRA and Confluence, improved
 communication clarity, and streamlined workflow management between cross-functional teams, contributing
 to an increase in project delivery efficiency 30%.
@@ -78,11 +77,9 @@ to an increase in project delivery efficiency 30%.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namanjain-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainn1290@gmail.com)
 
 # 🏆 Awards and Recognition
-## Client Recommendation for Project SimpliFi
-The client recognized the outstanding contributions of the client to the successful execution and optimization of the SimpliFi project.
+### Client Recommendation for Project SimpliFi: The client recognized the outstanding contributions of the client to the successful execution and optimization of the SimpliFi project.
 
-## Team of the Quarter - Super Squad
-Awarded for exceptional teamwork, innovation and the achievement of key project milestones within the quarter.
+### Team of the Quarter - Super Squad: Awarded for exceptional teamwork, innovation and the achievement of key project milestones within the quarter.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
