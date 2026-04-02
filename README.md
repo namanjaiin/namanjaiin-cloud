@@ -7,7 +7,7 @@ in environments.
 
 ## 🎓 Education:
 ### Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
-Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 CGPA: 8.29
 
 ## 💻 Skills:
