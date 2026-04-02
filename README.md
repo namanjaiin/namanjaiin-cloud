@@ -5,17 +5,17 @@ in environments.
 - Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Jenkins, Docker, Kubernetes, Helm, GitOps, ArgoCD, MLOps, Terraform, Security, Snyk, SonarQube, Trivy, Prometheus, Grafana, New Relic 
 - How you reach me through email: jainn1290@gmail.com
 
-# 🎓 Education:
-## Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
+## 🎓 Education:
+### Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
 Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 CGPA: 8.29
 
-# 💻 Skills:
+## 💻 Skills:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 👨🏻‍💻 Work Experience:
+## 👨🏻‍💻 Work Experience:
 
-## Cloud DevOps Engineer at $\color{hsl(0,100%,50%)}{\textsf{SourceFuse Technologies}}$ㅤㅤㅤㅤㅤㅤ2024 - Present
+#### Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤ2024 - Present
 - Designed AWS architecture for 4+ client projects, using AWS Organizational Units (OUs) to strengthen
 isolation, governance, and security best practices across multiple AWS accounts, including production, UAT,
 QA and Dev environments, resulting in a 30% reduction in security incidents.
@@ -42,7 +42,7 @@ and Elastic IP.
 - Contributed to architectural decisions, ensuring scalable and maintainable designs for future expansions of
 application services.
 
-## Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤ2022 - 2024
+#### Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤ2022 - 2024
 - Experience in managing Linux-based cloud infrastructure.
 - Configured self-managed databases like MariaDB and PostgreSQL across all instances in multiple environments, ensuring high availability and performance based on client requirements.
 - Infrastructure setup for new 20+ microservices, encompassing AWS EKS and Jenkins Configurations.
@@ -60,7 +60,7 @@ consistent deployments across 2+ projects.
 and CloudTrail, resulting in a 70% reduction in security incidents and ensuring 100% compliance with
 organizational security standards.
 
-## Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
+#### Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
 - Developed and maintained project documentation workflows that integrate JIRA and Confluence, improved
 communication clarity, and streamlined workflow management between cross-functional teams, contributing
 to an increase in project delivery efficiency 30%.
@@ -68,15 +68,15 @@ to an increase in project delivery efficiency 30%.
 - Troubleshoot GitLab CI/CD pipeline issues with the dev team to ensure seamless deployments.
 - Trained in a diverse range of DevOps tools, including AWS, Li
 
-# 🏅 Certifications:
+## 🏅 Certifications:
 - AWS Certified Solutions Architect - Associate
 - AWS Certified CloudOps Engineer - Associate
 - HashiCorp Certified: Terraform Associate (003)
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namanjain-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainn1290@gmail.com)
 
-# 🏆 Awards and Recognition
+## 🏆 Awards and Recognition
 #### Client Recommendation for Project SimpliFi
 The client recognized the outstanding contributions of the client to the successful execution and optimization of the SimpliFi project.
 
