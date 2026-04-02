@@ -74,7 +74,7 @@ to an increase in project delivery efficiency 30%.
 - HashiCorp Certified: Terraform Associate (003)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namanjain-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainn1290@gmail.com) [![GitHub](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namanjain-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainn1290@gmail.com) [![GitHub](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/namanjaiin)
 
 ## 🏆 Awards and Recognition
 #### Client Recommendation for Project SimpliFi
