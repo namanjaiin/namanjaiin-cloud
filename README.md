@@ -7,7 +7,7 @@ in environments.
 
 # 🎓 Education:
 ## Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
-Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 CGPA: 8.29
 
 # 💻 Skills:
@@ -15,7 +15,7 @@ CGPA: 8.29
 
 # 👨🏻‍💻 Work Experience:
 
-## Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤ2024 - Present
+## Cloud DevOps Engineer at $\color{hsl(0,100%,50%)}{\textsf{SourceFuse Technologies}}$ㅤㅤㅤㅤㅤㅤ2024 - Present
 - Designed AWS architecture for 4+ client projects, using AWS Organizational Units (OUs) to strengthen
 isolation, governance, and security best practices across multiple AWS accounts, including production, UAT,
 QA and Dev environments, resulting in a 30% reduction in security incidents.
@@ -77,9 +77,11 @@ to an increase in project delivery efficiency 30%.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namanjain-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainn1290@gmail.com)
 
 # 🏆 Awards and Recognition
-### Client Recommendation for Project SimpliFi: The client recognized the outstanding contributions of the client to the successful execution and optimization of the SimpliFi project.
+#### Client Recommendation for Project SimpliFi
+The client recognized the outstanding contributions of the client to the successful execution and optimization of the SimpliFi project.
 
-### Team of the Quarter - Super Squad: Awarded for exceptional teamwork, innovation and the achievement of key project milestones within the quarter.
+#### Team of the Quarter - Super Squad
+Awarded for exceptional teamwork, innovation and the achievement of key project milestones within the quarter.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
