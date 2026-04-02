@@ -7,8 +7,8 @@ in environments.
 - How you reach me through email: jainn1290@gmail.com
 
 # 🎓 Education:
-## Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
-Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+## Symbiosis University of Applied Sciencesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2018 - 2022
+Bachelor of Technology in Computer Science and Information Technologyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 CGPA: 8.29
 
 # 💻 Skills:
@@ -16,7 +16,7 @@ CGPA: 8.29
 
 # 👨🏻‍💻 Work Experience:
 
-## Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2024 - Present
+## Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2024 - Present
 - Designed AWS architecture for 4+ client projects, using AWS Organizational Units (OUs) to strengthen
 isolation, governance, and security best practices across multiple AWS accounts, including production, UAT,
 QA and Dev environments, resulting in a 30% reduction in security incidents.
@@ -43,7 +43,7 @@ and Elastic IP.
 - Contributed to architectural decisions, ensuring scalable and maintainable designs for future expansions of
 application services.
 
-## Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2022 - 2024
+## Junior Cloud DevOps Engineer at SourceFuse Technologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2022 - 2024
 - Experience in managing Linux-based cloud infrastructure.
 - Configured self-managed databases like MariaDB and PostgreSQL across all instances in multiple environments, ensuring high availability and performance based on client requirements.
 - Infrastructure setup for new 20+ microservices, encompassing AWS EKS and Jenkins Configurations.
@@ -61,7 +61,7 @@ consistent deployments across 2+ projects.
 and CloudTrail, resulting in a 70% reduction in security incidents and ensuring 100% compliance with
 organizational security standards.
 
-## Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
+## Cloud DevOps Trainee at SourceFuse TechnologiesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMarch 2022 - Aug 2024
 - Developed and maintained project documentation workflows that integrate JIRA and Confluence, improved
 communication clarity, and streamlined workflow management between cross-functional teams, contributing
 to an increase in project delivery efficiency 30%.
